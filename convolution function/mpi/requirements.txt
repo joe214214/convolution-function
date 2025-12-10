@@ -1,0 +1,6 @@
+numpy
+opencv-python
+numba
+mpi4py
+matplotlib
+pandas
